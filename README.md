@@ -8,9 +8,12 @@ Feature Engineering: Extracts relevant features and preprocesses data to improve
 Evaluation Metric: RMSLE is used as the evaluation metric to quantify the performance of the regression model.
 
 # Project Structure
-data/: Contains the dataset used for training and testing the model.
-notebooks/: Jupyter notebooks documenting the EDA, model development, and evaluation.
-src/: Python scripts containing modular code for data preprocessing, model training, and evaluation.
+data: Contains the dataset used for training and testing the model.
+
+notebooks: Jupyter notebooks documenting the EDA, model development, and evaluation.
+
+src: Python scripts containing modular code for data preprocessing, model training, and evaluation.
+
 requirements.txt: Lists the required Python packages for replicating the environment.
 
 # Getting Started
