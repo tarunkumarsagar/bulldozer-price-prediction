@@ -30,8 +30,11 @@ Run the scripts in the src/ directory for specific tasks like data preprocessing
 
 # Dependencies
 1.scikit-learn
+
 2.pandas
+
 3.numpy
+
 4.matplotlib
 
 # Results
